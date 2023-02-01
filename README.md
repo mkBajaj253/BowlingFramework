@@ -2,7 +2,7 @@
 
 ============
 
-Write a framework to be used by a bowling alley.
+# Write a framework to be used by a bowling alley.
 
 The framework will provide a public interface to:
 
@@ -10,7 +10,7 @@ Input how many pins were knocked down, called each time a ball is thrown.
 Retrieve the current score, to be called at any time.
 Please follow what you consider to be best practices during development.
 
-Bowling Rules A
+# Bowling Rules A
 
 A game of bowling consists of ten frames.
 
@@ -23,3 +23,9 @@ Frame 1: Roll knocks down 9 pins, followed by 0 Frame 2: Roll knocks down 2 pins
 Total: 10 frames each frame has 2 chances total 10 pins to knock down
 
 ** Write tests to check logic, consider all situations.
+
+
+
+
+
+* Fork the project and do the exercise once done raise PR. 
