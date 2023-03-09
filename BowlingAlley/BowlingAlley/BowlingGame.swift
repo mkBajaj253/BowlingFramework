@@ -1,3 +1,10 @@
+//
+//  BowlingGame.swift
+//  BowlingAlley
+//
+//  Created by apple on 07/03/2023.
+//
+
 import Foundation
 
 public class BowlingGame {
@@ -36,3 +43,4 @@ public class BowlingGame {
     }
     
 }
+
